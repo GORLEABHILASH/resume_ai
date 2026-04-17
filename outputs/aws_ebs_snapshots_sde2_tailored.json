@@ -1,0 +1,92 @@
+{
+  "tailored_summary": "Software Engineer with 4+ years of experience building and operating scalable cloud-native backend systems on AWS. Background includes designing distributed services, REST APIs, and data pipelines for high-volume data operations, reliability improvements, and cross-service integrations. Proven impact across performance optimization, fault tolerance, infrastructure automation, and testing using Python, Node.js, Go, and AWS services including EC2, Lambda, S3, API Gateway, RDS, DynamoDB, Redshift, Kinesis, and CloudWatch.",
+  "tailored_experience": [
+    {
+      "company": "Ipser Labs                                                                                                                                                                                                               Remote",
+      "role": "Software Engineer Intern                                                                                                                                              Mar 2026 - Present",
+      "bullets": [
+        "Designed and implemented backend REST APIs and business logic for Smart Pantry using FastAPI and Supabase Postgres, supporting reliable inventory, meal-planning, and shopping-list workflows.",
+        "Built an OCR-based data ingestion pipeline with AWS Textract to automate receipt parsing and inventory updates, reducing manual entry and improving data consistency for end users.",
+        "Developed an AI-driven recommendation service using OpenAI APIs to rank meal suggestions by ingredient availability, expiry priority, and nutritional preferences.",
+        "Contributed to end-to-end feature delivery across React (Vite) frontend flows and Supabase Auth integrations, supporting implementation, testing, and launch of user-facing features."
+      ]
+    },
+    {
+      "company": "BeOne Medicines                                                                                                                                                                                     San Mateo, CA",
+      "role": "Web Application Developer Intern                                                                                                                       Jun 2024 - Dec 2024",
+      "bullets": [
+        "Designed, implemented, tested, and maintained full-stack analytics features including server-side components, RBAC authorization, Django REST APIs, and reusable Vue.js UI components for ~1,000 users.",
+        "Developed an LLM-powered chart summarization service using OpenAI APIs that generated natural-language insights from BI data, reducing manual analysis effort by 40%.",
+        "Built a reusable Vue.js component library with standardized validation and configuration patterns, reducing new dashboard development time by 50% and improving maintainability.",
+        "Improved system performance by optimizing Django ORM queries and PostgreSQL indexing, reducing API response latency and page load times by 30% under high request volumes.",
+        "Implemented a Pandas-based export pipeline that transformed filtered JSON datasets into downloadable reports, improving cross-team data access and offline reporting workflows."
+      ]
+    },
+    {
+      "company": "Credera                                                                                                                                                                                                      Hyderabad, TG",
+      "role": "Software Developer                                                                                                                                                        Mar 2022 - Aug 2023",
+      "bullets": [
+        "Designed and implemented scalable server-side APIs and backend services using Node.js and Express, exposing customer-facing RESTful endpoints over HTTP/HTTPS for high-traffic ecommerce workflows.",
+        "Improved concurrency for large-scale request handling by optimizing pagination and request orchestration for simultaneous client traffic, reducing page load latency by ~50%.",
+        "Built cloud-native, fault-tolerant AWS services with Lambda, API Gateway, and Cognito to improve availability, secure user access, and support reliable production operations.",
+        "Implemented testing, logging, and operational monitoring with AWS CloudWatch and AWS X-Ray, speeding debugging and surfacing performance bottlenecks earlier in the deployment lifecycle.",
+        "Contributed to architecture decisions for AWS-based microservices, balancing scalability, latency, and operational complexity across distributed services."
+      ]
+    },
+    {
+      "company": "Accenture                                                                                                                                                                                                      Chennai, TN",
+      "role": "Software Engineer                                                                                                                                                              Jul 2019 - Sep 2021",
+      "bullets": [
+        "Designed and operated distributed AWS-based data services using EC2, S3, Glue, and Redshift, handling ingestion and transformation of 1M+ multi-source records for analytics workloads.",
+        "Built fault-tolerant processing pipelines with AWS Lambda, retry logic, and structured failure handling to improve durability and reliability of production data operations.",
+        "Designed secure REST APIs with AWS API Gateway to support internal data services and cross-service integrations over HTTP/HTTPS.",
+        "Managed storage and access patterns across Amazon RDS, DynamoDB, and S3, selecting services based on scalability, latency, and workload requirements.",
+        "Implemented IAM roles and least-privilege policies across EC2, Lambda, S3, and database services, strengthening cloud security and operational controls.",
+        "Optimized concurrent ingestion with AWS Kinesis sharding and S3 multipart upload, increasing sustained throughput by ~30% and improving large-scale data movement efficiency.",
+        "Provisioned repeatable infrastructure with Terraform and CI/CD pipelines, supporting deployment consistency, infrastructure modernization, and long-term system health."
+      ]
+    }
+  ],
+  "tailored_projects": [
+    {
+      "name": "Neo4j-based GraphRAG Application | GitHub : https://github.com/GORLEABHILASH/booklovers",
+      "bullets": [
+        "Developed a graph-based retrieval service in Python using Neo4j, LangChain, and OpenAI APIs to answer contextual recommendation queries over connected data.",
+        "Modeled knowledge graph relationships and multi-hop retrieval logic to improve relevance and reasoning quality for complex queries.",
+        "Tools: Neo4j, LangChain, OpenAI API, Python"
+      ]
+    },
+    {
+      "name": "Real-Time Data Ingestion & Search Platform | GitHub : https://github.com/GORLEABHILASH/Real-Time-Data-Ingestion",
+      "bullets": [
+        "Built a scalable real-time ingestion and search platform to support continuous data indexing and query workloads.",
+        "Designed a distributed producer-consumer pipeline with RabbitMQ and Elasticsearch; containerized services with Docker and deployed on Kubernetes for reliable operations.",
+        "Tools: Node.js, RabbitMQ, Elasticsearch, Docker, Kubernetes, OAuth 2.0"
+      ]
+    }
+  ],
+  "tailored_skills_section": "Frontend: React.js, Next.js, Vue.js, TypeScript, JavaScript (ES6+), HTML5, CSS3/SCSS\nBackend: Python (FastAPI, Django, Flask), Node.js, Express.js, Go (Golang), Java, Spring Boot, REST APIs, Microservices\nDatabases: PostgreSQL, MySQL, DynamoDB, Amazon RDS, MongoDB, Redis, Amazon Redshift, Elasticsearch\nCloud & DevOps: AWS (EC2, Lambda, S3, API Gateway, DynamoDB, RDS, Redshift, Kinesis, CloudWatch, X-Ray), Terraform, Docker, Kubernetes, CI/CD, GitHub Actions\nDistributed Systems: Scalability, concurrency, fault tolerance, large-scale data operations, performance optimization, infrastructure automation\nIntegrations: IAM, AWS Cognito, OAuth2, Auth0, Google OAuth, Webhooks, Third-party APIs\nPractices: System design, design patterns, reliability and scaling, unit testing, integration testing, code reviews, technical documentation, Agile/Scrum",
+  "covered_keywords": [
+    "distributed services",
+    "AWS scale",
+    "data operations",
+    "testing",
+    "deployment",
+    "launch",
+    "system architecture",
+    "performance",
+    "availability",
+    "durability",
+    "code reviews",
+    "reliability and scaling"
+  ],
+  "top_strengths": [
+    "Strong AWS-backed distributed systems experience from Accenture and Credera aligned to large-scale data operations and reliability.",
+    "Clear evidence of backend API ownership, testing, observability, and performance optimization across multiple production environments.",
+    "Resume now emphasizes architecture trade-offs, fault tolerance, concurrency, and operational excellence in language closer to the AWS JD."
+  ],
+  "final_notes": [
+    "Formatting should remain unchanged when rendered back into the source DOCX template.",
+    "PDF export still depends on a DOCX-to-PDF converter being available on the local machine."
+  ]
+}
